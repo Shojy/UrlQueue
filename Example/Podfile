@@ -1,0 +1,6 @@
+use_frameworks!
+target 'UrlQueue_Tests' do
+  pod 'UrlQueue', :path => '../'
+  
+  
+end
