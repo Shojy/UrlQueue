@@ -1,6 +1,6 @@
 # UrlQueue
 
-[![CI Status](http://img.shields.io/travis/Joshua Moon/UrlQueue.svg?style=flat)](https://travis-ci.org/Joshua Moon/UrlQueue)
+[![CI Status](http://img.shields.io/travis/Shojy/UrlQueue.svg?style=flat)](https://travis-ci.org/Joshua Moon/UrlQueue)
 [![Version](https://img.shields.io/cocoapods/v/UrlQueue.svg?style=flat)](http://cocoapods.org/pods/UrlQueue)
 [![License](https://img.shields.io/cocoapods/l/UrlQueue.svg?style=flat)](http://cocoapods.org/pods/UrlQueue)
 [![Platform](https://img.shields.io/cocoapods/p/UrlQueue.svg?style=flat)](http://cocoapods.org/pods/UrlQueue)

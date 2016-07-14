@@ -1,0 +1,14 @@
+PODS:
+  - UrlQueue (0.1.0)
+
+DEPENDENCIES:
+  - UrlQueue (from `../`)
+
+EXTERNAL SOURCES:
+  UrlQueue:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UrlQueue: cc18b1df5b5bf634849505183fdfdce63eea445b
+
+COCOAPODS: 0.39.0

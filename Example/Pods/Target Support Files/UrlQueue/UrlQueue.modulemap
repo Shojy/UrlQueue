@@ -1,0 +1,6 @@
+framework module UrlQueue {
+  umbrella header "UrlQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}
